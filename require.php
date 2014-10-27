@@ -4,4 +4,4 @@
             "name" => "John",
             "age" => "21"
     );
-    printInfo(info);
+    printInfo($info);
